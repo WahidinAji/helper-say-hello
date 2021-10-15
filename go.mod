@@ -1,3 +1,3 @@
-module github.com/WahidinAji/helper-say-hello/v2
+module github.com/WahidinAji/helper-say-hello/v3
 
 go 1.16

@@ -21,6 +21,6 @@ func sayGoodBy() string {
 function SayHello can access on other package
  */
 
-func SayHello(name string) string {
-	return "hai string"
+func SayHello(name, umur string) string {
+	 return "hai " + name + "old " + umur
 }
